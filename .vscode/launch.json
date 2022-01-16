@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MergeTwoLinkedList",
+            "request": "launch",
+            "mainClass": "Datastructure.LinkedList.SinglyList.MergeTwoLinkedList",
+            "projectName": "Datastructure-And-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stack",
+            "request": "launch",
+            "mainClass": "Datastructure.Array.Stack",
+            "projectName": "Datastructure-And-Algorithms"
+        },
+        {
+            "type": "java",
             "name": "Launch Array1",
             "request": "launch",
             "mainClass": "Array.Array1",
