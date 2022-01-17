@@ -1,6 +1,5 @@
 package Datastructure.LinkedList.SinglyList;
 
-import Datastructure.LinkedList.SinglyList.ElementFromEndInLinkedList.Node;
 
 public class RemoveDuplicateFromSortedLinkdedList {
 

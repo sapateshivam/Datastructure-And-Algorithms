@@ -1,6 +1,5 @@
 package Datastructure.LinkedList.SinglyList;
 
-import Datastructure.LinkedList.SinglyList.MiddleInLinkedList.Node;
 
 public class ElementFromEndInLinkedList {
 	private Node head;

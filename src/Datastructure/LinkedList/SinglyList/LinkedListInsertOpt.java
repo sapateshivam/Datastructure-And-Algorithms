@@ -1,8 +1,5 @@
 package Datastructure.LinkedList.SinglyList;
 
-import java.util.Scanner;
-
-import Datastructure.LinkedList.SinglyList.LinkedListInsertOpt.Node;
 
 public class LinkedListInsertOpt {
 	private Node head;
