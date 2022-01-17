@@ -16,7 +16,7 @@ public class DoublyLinkedListAllOpt {
         }
     }
 
-    public void display(Node node){
+    public void displayhead(Node node){
         Node curr = node;
         while(curr!=null){
             System.out.print(curr.data+"->");
@@ -25,12 +25,35 @@ public class DoublyLinkedListAllOpt {
         System.out.println("null");
     }
 
+    public void displayprev(Node node){
+        Node curr = node;
+        while(curr!=null){
+            System.out.print(curr.data+"->");
+            curr= curr.prev;
+        }
+        System.out.println("null");
+    }
+
+    public void insert_first(int value){
+        Node newNode = new Node(value);
+        if(head==null){
+            head = newNode;
+            tail = newNode;
+        }else{
+           newNode.prev = null;
+           newNode.next = head;
+           head.prev = newNode;
+           head = newNode;
+        }
+    }
+
     public static void main(String[] args) {
         DoublyLinkedListAllOpt obj = new DoublyLinkedListAllOpt();
-        obj.head = new Node(10);
-        obj.tail = obj.head;
-        obj.display(obj.head);        
-        
-    
+        obj.insert_first(10);
+        obj.insert_first(20);
+        obj.insert_first(30);
+        obj.insert_first(40);
+        obj.displayprev(obj.tail);
+        obj.displayhead(obj.head);
     }
 }
