@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch CircularLinkedList",
+            "request": "launch",
+            "mainClass": "Datastructure.LinkedList.CircularLinkedList.CircularLinkedList",
+            "projectName": "Datastructure-And-Algorithms"
+        },
+        {
+            "type": "java",
             "name": "Launch DoublyLinkedListAllOpt",
             "request": "launch",
             "mainClass": "Datastructure.LinkedList.DoublyLindedList.DoublyLinkedListAllOpt",
