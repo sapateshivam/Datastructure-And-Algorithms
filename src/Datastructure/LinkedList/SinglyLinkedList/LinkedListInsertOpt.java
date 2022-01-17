@@ -1,4 +1,4 @@
-package Datastructure.LinkedList.SinglyList;
+package Datastructure.LinkedList.SinglyLinkedList;
 
 
 public class LinkedListInsertOpt {

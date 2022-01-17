@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch DoublyLinkedListAllOpt",
+            "request": "launch",
+            "mainClass": "Datastructure.LinkedList.DoublyLindedList.DoublyLinkedListAllOpt",
+            "projectName": "Datastructure-And-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "Launch AdditionOfTwoLinkedList",
+            "request": "launch",
+            "mainClass": "Datastructure.LinkedList.SinglyList.AdditionOfTwoLinkedList",
+            "projectName": "Datastructure-And-Algorithms"
+        },
+        {
+            "type": "java",
             "name": "Launch MergeTwoLinkedList",
             "request": "launch",
             "mainClass": "Datastructure.LinkedList.SinglyList.MergeTwoLinkedList",
