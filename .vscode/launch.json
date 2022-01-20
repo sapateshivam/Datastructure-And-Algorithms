@@ -6,6 +6,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch FirstOccOfArrayEle",
+            "request": "launch",
+            "mainClass": "Datastructure.Recursion.FirstOccOfArrayEle",
+            "projectName": "Datastructure-And-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxMinArray",
+            "request": "launch",
+            "mainClass": "Datastructure.Recursion.MaxMinArray",
+            "projectName": "Datastructure-And-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintArrayElements",
+            "request": "launch",
+            "mainClass": "Datastructure.Recursion.PrintArrayElements",
+            "projectName": "Datastructure-And-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "Launch TowerOfHanoi",
+            "request": "launch",
+            "mainClass": "Datastructure.Recursion.TowerOfHanoi",
+            "projectName": "Datastructure-And-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "Launch ZigzagPrint",
+            "request": "launch",
+            "mainClass": "Datastructure.Recursion.ZigzagPrint",
+            "projectName": "Datastructure-And-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "Launch Power",
+            "request": "launch",
+            "mainClass": "Datastructure.Recursion.Power",
+            "projectName": "Datastructure-And-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorial",
+            "request": "launch",
+            "mainClass": "Datastructure.Recursion.Factorial",
+            "projectName": "Datastructure-And-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintIncreseDecrease",
+            "request": "launch",
+            "mainClass": "Datastructure.Recursion.PrintIncreseDecrease",
+            "projectName": "Datastructure-And-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintIncresing",
+            "request": "launch",
+            "mainClass": "Datastructure.Recursion.PrintIncresing",
+            "projectName": "Datastructure-And-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "Launch Decrement",
+            "request": "launch",
+            "mainClass": "Datastructure.Recursion.Decrement",
+            "projectName": "Datastructure-And-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinOfArray",
+            "request": "launch",
+            "mainClass": "Datastructure.Array.MinOfArray",
+            "projectName": "Datastructure-And-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseArray",
+            "request": "launch",
+            "mainClass": "Datastructure.Array.ReverseArray",
+            "projectName": "Datastructure-And-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array2",
+            "request": "launch",
+            "mainClass": "Datastructure.Array.Array2",
+            "projectName": "Datastructure-And-Algorithms"
+        },
+        {
+            "type": "java",
             "name": "Launch CircularLinkedList",
             "request": "launch",
             "mainClass": "Datastructure.LinkedList.CircularLinkedList.CircularLinkedList",
