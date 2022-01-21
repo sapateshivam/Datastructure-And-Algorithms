@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch AllIndicesInArray",
+            "request": "launch",
+            "mainClass": "Datastructure.Recursion.AllIndicesInArray",
+            "projectName": "Datastructure-And-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "Launch LastOccOfArrayEle",
+            "request": "launch",
+            "mainClass": "Datastructure.Recursion.LastOccOfArrayEle",
+            "projectName": "Datastructure-And-Algorithms"
+        },
+        {
+            "type": "java",
             "name": "Launch FirstOccOfArrayEle",
             "request": "launch",
             "mainClass": "Datastructure.Recursion.FirstOccOfArrayEle",
