@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch KeypadCombination",
+            "request": "launch",
+            "mainClass": "Datastructure.Recursion.KeypadCombination",
+            "projectName": "Datastructure-And-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "Launch GetSubSequence",
+            "request": "launch",
+            "mainClass": "Datastructure.Recursion.GetSubSequence",
+            "projectName": "Datastructure-And-Algorithms"
+        },
+        {
+            "type": "java",
             "name": "Launch AllIndicesInArray",
             "request": "launch",
             "mainClass": "Datastructure.Recursion.AllIndicesInArray",
